@@ -1,0 +1,67 @@
+body{
+	background: #298eea;
+}
+
+.logo{
+	height:35px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+.signupForm{
+    display:block;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	border-radius: 3px;
+}
+.signupForm legend{
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 40px;
+	margin-bottom: 30px;
+	padding-top:30px;
+}
+.signupForm input, button{
+	width: 320px;
+	height: 55px;
+	margin-left: 45px;
+	margin-bottom: 25px;
+	padding-left: auto;
+	padding-right: auto;
+	border-radius: 3px;
+}
+.signupForm label{
+	display: block;
+  margin-bottom: 25px;
+  margin-left: 45px;
+}
+.signupForm button{
+	color: white;
+	background:#15CD72;
+	cursor: pointer;
+}
+.signupForm button:hover{
+	background-color:#15CD72;
+	text-decoration-color: white;
+}
+.signupForm a {
+	margin-left: 140px;
+	color: #999;
+	cursor: pointer;
+}
+
+p{
+	display: block;
+	margin-left: 540px;
+	margin-right: auto;
+	color:white;
+}
+a{
+	color:white;
+	cursor: pointer;
+}
